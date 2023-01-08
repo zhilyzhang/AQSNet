@@ -4,6 +4,13 @@ AQSNet is a novel and automatic Annotation Quality aSsessment Network (AQSNet) f
 
 ## Providing Datasets 
 *  Hubei Land Cover Satellite DataSet: [HBD4](http://58.48.42.237/luojiaSet/datasets/datasetDetail/77?id=77&taskType=lc)
+Some segmentation results on Flickr images:
+<p align="center">
+    <img src="figures/Hubei_Province.png" width=800></br>
+    Waterbody Resource Distribution in Hubei Province.
+    <img src="figures/HBD4_waterbody_samples.bmp" width=800></br>
+    Some typical waterbody samples from HBD4.
+</p>
 
 *  Building Annotation Quality aSsessment Dataset: [BAQS Dataset]()
 
