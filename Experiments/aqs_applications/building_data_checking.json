@@ -1,0 +1,13 @@
+{
+  "network_name": "AQSNet",
+  "GPU": 7,
+  "backbone": "hrnet48",
+  "with_aux": false,
+  "save_checked_samples_path": "/data02/zzl/dataset/BuildingDatas/building_labeling_check/txt_files/BLCDataset_checked_samples-tmp",
+  "weight_path": "/data02/zzl/codes2022/AQSNet/trained_weights/baqs/aqsnet_baqs_hrnet.pth",
+  "test_data_txt": "/data02/zzl/dataset/BuildingDatas/building_labeling_check/txt_files/BLCDataset_selected_unchecked_samples/sample.txt",
+  "use_reality_data": true,
+  "normal_imagenet": true,
+  "batch_size": 1,
+  "num_workers": 8
+}

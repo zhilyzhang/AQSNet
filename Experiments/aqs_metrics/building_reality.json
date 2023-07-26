@@ -1,0 +1,13 @@
+{
+  "network_name": "AQSNet",
+  "GPU": 7,
+  "is_vis_map": false,
+  "exp_dir": "",
+  "weight_path": "/data02/zzl/codes2022/AQSNet/trained_weights/baqs/aqsnet_baqs_hrnet.pth",
+  "test_data_txt": "/data02/zzl/dataset/BuildingDatas/building_labeling_check/txt_files/BLCDataset/val.txt",
+  "use_reality_data": true,
+  "normal_imagenet": true,
+  "batch_size": 1,
+  "num_workers": 8,
+  "with_aux": false
+}

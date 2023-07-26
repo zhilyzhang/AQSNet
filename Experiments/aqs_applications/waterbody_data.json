@@ -1,0 +1,14 @@
+{
+  "network_name": "AQSNet",
+  "GPU": 7,
+  "backbone": "hrnet48",
+  "with_aux": true,
+  "save_checked_samples_path": "/data02/zzl/dataset/HBD4W/txt_files/checked_samples0.25/HLCSD-10-temp",
+  "weight_path": "/data02/zzl/codes2022/AQSNet/trained_weights/waqs/aqsnet_waqs_hrnet.pth",
+  "test_data_txt": "/data02/zzl/dataset/HBD4W/txt_files/unchecked_samples/HLCSD-5/sample.txt",
+  "use_reality_data": true,
+  "normal_imagenet": true,
+  "batch_size": 1,
+  "num_workers": 8
+}
+

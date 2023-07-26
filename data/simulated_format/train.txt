@@ -1,0 +1,6 @@
+/data02/zzl/dataset/BuildingDatas/building_labeling_check/BLCDataset/train/image/train_314.tif /data02/zzl/dataset/BuildingDatas/building_labeling_check/BLCDataset/train/label_checked/train_314.tif
+/data02/zzl/dataset/BuildingDatas/building_labeling_check/BLCDataset/train/image/train_1385.tif /data02/zzl/dataset/BuildingDatas/building_labeling_check/BLCDataset/train/label_checked/train_1385.tif
+/data02/zzl/dataset/BuildingDatas/building_labeling_check/BLCDataset/train/image/train_1254.tif /data02/zzl/dataset/BuildingDatas/building_labeling_check/BLCDataset/train/label_checked/train_1254.tif
+/data02/zzl/dataset/BuildingDatas/building_labeling_check/BLCDataset/train/image/train_1288.tif /data02/zzl/dataset/BuildingDatas/building_labeling_check/BLCDataset/train/label_checked/train_1288.tif
+/data02/zzl/dataset/BuildingDatas/building_labeling_check/BLCDataset/train/image/train_3841.tif /data02/zzl/dataset/BuildingDatas/building_labeling_check/BLCDataset/train/label_checked/train_3841.tif
+/data02/zzl/dataset/BuildingDatas/building_labeling_check/BLCDataset/train/image/train_3330.tif /data02/zzl/dataset/BuildingDatas/building_labeling_check/BLCDataset/train/label_checked/train_3330.tif
